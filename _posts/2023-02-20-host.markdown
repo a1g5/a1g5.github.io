@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Host
-date:   2023-02-20 15:05:55 +0300
+
 image:  /assets/images/blog/post-2.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mouse
-date:   2023-02-20 12:05:55 +0300
+
 image:  /assets/images/blog/post-5.jpg
 ---
 
