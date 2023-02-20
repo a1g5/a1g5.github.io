@@ -39,7 +39,7 @@ hero:
   hero-title: Welcome to <br> Pictionary! <br> <i>Let's enter the digital learning scenario!</i>
 
 social:
-  - { icon: "ti-GitHub", link: "https://github.com/" }
+  - { icon: "github", link: "https://github.com/" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
