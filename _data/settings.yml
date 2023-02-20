@@ -2,18 +2,18 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo:
-author: themefisher
+title: Pictionary
+logo: 
+author: Group 5
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: picdictgroup5@163.com
+phone: +852 5980 3331
+address: Tat Chee Avenue, Kowloon, Hong Kong
+copyright: Copyright &copy; 2023 Designed by [Zhengwu MA](https://zhengwuma.github.io/) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
+  - { name: Pictionary, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -39,7 +39,7 @@ hero:
   hero-title: Hi! I’m <br> Christoher <br> UX designer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-github", link: "#" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
@@ -71,17 +71,29 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Zhengwu MA"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "Web Developer"
 
-  - title: "Julias Carlie"
+  - title: "Lu CHEN"
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
-  - title: "John Doe"
+  - title: "Yanjun LAI"
     image: "assets/images/team/member-3.png"
     designation: "Designer"
+    
+  - title: "Yinrong YAN"
+    image: "assets/images/team/member-3.png"
+    designation: "Collocation Collection"
+    
+  - title: "Huiyi ZHENG"
+    image: "assets/images/team/member-3.png"
+    designation: "Designer"
+    
+  - title: "Minglin LI"
+    image: "assets/images/team/member-3.png"
+    designation: "Image Collection"
 
 #-------------------------------
 # Skills Section
