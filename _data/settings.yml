@@ -36,10 +36,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! This is <br> Pictionary! <br> Let's enter the digital learning scenario!
 
 social:
-  - { icon: "ti-github", link: "#" }
+  - { icon: "ti-GitHub", link: "https://github.com/" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
