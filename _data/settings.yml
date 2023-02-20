@@ -34,7 +34,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi there! <br>Welcome to the<br> <i>Digital Learning Classroom!</i> 
+  hero-title: Hi there! <br>Welcome to the<br><br> <i>Digital Learning Classroom!</i> 
 
 #-------------------------------
 # About (Section and Page)
