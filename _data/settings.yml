@@ -13,7 +13,6 @@ copyright: Copyright &copy; 2023 Designed by [Zhengwu MA](https://zhengwuma.gith
 menu:
   - { name: About, link: "/about" }
   - { name: Pictionary, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
