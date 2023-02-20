@@ -9,7 +9,7 @@ description: this is meta description
 email: picdictgroup5@163.com
 phone: +852 5980 3331
 address: Tat Chee Avenue, Hong Kong
-copyright: Copyright &copy; 2023 Designed by [Zhengwu MA](https://zhengwuma.github.io/) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2023 Designed by [Zhengwu MA](https://zhengwuma.github.io/) & Developed by [Get jekyll themes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome to <br> Pictionary! <br> Let's enter the digital learning scenario!
+  hero-title: Welcome to <br> Pictionary! <br> <i>Let's enter the digital learning scenario!</i>
 
 social:
   - { icon: "ti-GitHub", link: "https://github.com/" }
@@ -312,4 +312,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: picdictgroup5@163.com
