@@ -8,6 +8,8 @@ image:  /assets/images/blog/post-1.jpg
 
 👈 <B> What's name of this big screen? </B>
 
+<B> <font size="5">Display </B></font>
+
 📢 <B>Pronunciation</B>
 
 🇬🇧  <B>/dɪsˈpleɪ/</B>  🇺🇸  <B>/dɪsˈpleɪ/<B>
