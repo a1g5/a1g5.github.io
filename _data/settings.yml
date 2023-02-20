@@ -2,8 +2,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Pictionary-digital learning
-logo: A1G5
+title: Pictionary
+logo: 
 author: Group 5
 description: this is meta description
 email: picdictgroup5@163.com
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome to <br> <i>the digital learning scenario!</i> <br>
+  hero-title: Welcome to the <br><i>digital learning scenario!</i> <br>
 
 
 #-------------------------------
