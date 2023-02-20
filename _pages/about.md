@@ -1,18 +1,17 @@
 ---
 layout: about
 title: About Us
-author: Zhengwu MA
+author: Group 5
 image: assets/images/about/author.jpg
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+What is the big black machine under the desk? What is the rectangle on the desk containing all the letter from A to Z? What is the thing can play the cartoon and movie? And what's name for the mouse-like pebble can make "click" sounds?
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+This is Pictionary project. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+We aim to perform the real-world picture to the kids and explain the object from linguistics perspective.
+
+We believe these little kids can be inspired from the picture introduction.
+
+btw 🥳 This is Group 5 from 2023 spring CityU Computational Lexicography course.
