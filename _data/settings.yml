@@ -43,28 +43,13 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: We learn from the tangible world, including the language. Pictionary is the primary school students domain dictionary project to collect the real objects around our world. This work is developed by the 2023 spring LT5457 Compuational Lexicography Group 5.
+blurb: We learn from the tangible world, including the language. Pictionary is the primary school students domain dictionary project to collect the real objects around our world. This work is developed by the 2023 spring LT5457 Compuational Lexicography Group 5. Check our group information in "About".
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-
-# Work Process Section
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-# My Team Section
+# Team Section
 team:
   - title: "Zhengwu MA"
     image: "assets/images/team/member-1.png"
