@@ -2,12 +2,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Pictionary
+title: 🤓 Pictionary
 logo: 
 author: Group 5
 description: this is meta description
 email: picdictgroup5@163.com
-phone: +852 5980 3331
+GitHub: a1g5
 address: Tat Chee Avenue, Hong Kong
 copyright: Copyright &copy; 2023 Designed by [Zhengwu MA](https://zhengwuma.github.io/) & Developed by [Get jekyll themes](https://getjekyllthemes.com)
 
@@ -74,7 +74,6 @@ team:
   - title: "Minglin LI"
     image: "assets/images/team/member-3.png"
     designation: "Image Collection"
-
 
 # Portfolio (Section and Page)
 
