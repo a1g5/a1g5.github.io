@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Host
-
 image:  /assets/images/blog/post-2.jpg
 ---
 
