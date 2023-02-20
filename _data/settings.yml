@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome to the <br><i>digital learning scenario!</i> <br>
+  hero-title: Hi there! <br>Welcome to the<br> <br><i>digital learning scenario!</i> <br>
 
 
 #-------------------------------
@@ -155,5 +155,5 @@ portfolio-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Info
+contact-title: Contact Info
 contact-email: picdictgroup5@163.com
