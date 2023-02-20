@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! This is <br> Pictionary! <br> Let's enter the digital learning scenario!
+  hero-title: Welcome to <br> Pictionary! <br> Let's enter the digital learning scenario!
 
 social:
   - { icon: "ti-GitHub", link: "https://github.com/" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: We learn from the tangible world, including the language. Pictionary is the primary school students domain dictionary project to collect the real objects around our world. This work is developed by the 2023 spring LT5457 Compuational Lexicography Group 5.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
