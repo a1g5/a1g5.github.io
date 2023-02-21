@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  Display
+title:  👇 What's name of this big screen?
 
 image:  /assets/images/blog/post-1.jpg
 
 ---
-
-**👈 <font size="4"> <B> What's name of this big screen? </B></font> <br>**
-
-<font size="5"> <i> <B> Display  </B> </i> </font> <br>
+**Display**
 
 📢 <B>Pronunciation</B>
 
