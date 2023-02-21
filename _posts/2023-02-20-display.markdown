@@ -10,6 +10,8 @@ image:  /assets/images/blog/post-1.jpg
 
 <font size="5"> <i> <B> Display  </B> </i> </font>
 
+<B>Definition: </B> <br> The Regulation originally required protection of employees who have to use computer display screen for a period of one hour a day.
+
 📢 <B>Pronunciation</B>
 
 🇬🇧  <B>/dɪsˈpleɪ/</B>  
