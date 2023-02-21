@@ -20,7 +20,7 @@ image:  /assets/images/blog/post-5.jpg
 > How to use the word <B>"mouse"</B>? Let's see some examples ~ 
 
 **in our Digital Classroom**
-
+<br>
 click <B> mouse </B>
 
 📍 To access this screen, right mouse click on the desired data file.<br>
@@ -35,33 +35,32 @@ move <B> mouse</B>
 
 
 **as a "Mickey"**
+<br>
+ADJ. + mouse
 
-(1) ADJ. + mouse
+	mouse field , mouse laboratory 
+	
+	📍 This page provides integrated access to data on the genetics, genomics, and biology of the laboratory mouse.
 
-	mouse field , mouse laboratory <br>
+<br>
+VERB + mouse
 	
-	📍 This page provides integrated access to data on the genetics, genomics, and biology of the laboratory mouse.<br>
+	catch mouse
+	
+	📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?
+	
+<br>
+MOUSE + VERB  (describe the mouse's action)
+	
+	often used verb: squeak, run, scamper, gnaw 
+	
+	📍 A black cat was sitting outside a mouse hole for a few days.
+	
+	📍 A mouse has gnawed its way through the telephone wire.
+	
+<br>
+slang
 
-(2) VERB + mouse
+	as quiet as a mouse
 	
-	catch mouse  <br>
-	
-	📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?<br>
-	
-(3) MOUSE + VERB  (describe the mouse's action)
-	
-	often used verb: squeak, run, scamper, gnaw  <br>
-	
-	📍 A black cat was sitting outside a mouse hole for a few days.<br>
-	
-	📍 A mouse has gnawed its way through the telephone wire.<br>
-		
-(3) MOUSE + VERB  (describe the mouse's action)
-
-	mouse droppings, mouse hole, mouse trap  <br>
-	
-(4) slang
-
-	as quiet as a mouse  <br>
-	
-	📍 She crept upstairs, as quiet as a mouse.<br>
+	📍 She crept upstairs, as quiet as a mouse.
