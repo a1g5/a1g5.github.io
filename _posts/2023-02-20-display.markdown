@@ -4,6 +4,7 @@ title:  👇 What's name of this screen?
 image:  /assets/images/blog/post-1.jpg
 
 ---
+**Display**
 
 📢 <B>Pronunciation</B>
 

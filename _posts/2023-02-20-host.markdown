@@ -3,6 +3,8 @@ layout: post
 title:  👇 What's the name for this big box?
 image:  /assets/images/blog/post-2.jpg
 ---
+**Host**
+
 📢 <B>Pronunciation</B>
 
 **🇬🇧 <B>/həʊst/</B>**  
@@ -33,17 +35,17 @@ web-<B>hosting</B>
 
 📍 Host computer <br>
 
-	Do not use this feature if the <B>host</B> computer sends Line Feeds to the printer.
+	Do not use this feature if the host computer sends Line Feeds to the printer.
 
 📍 Host machine <br>
 
-	The local host machine can further communicate with <B>host</B> machines in other regions over the Internet or GPRS.
+	The local host machine can further communicate with host machines in other regions over the Internet or GPRS.
 
 📍 Web-hosting <br>
 
-	The Cpanel interface is a client side interface, which allows your customers to easily control a web <B>hosting</B> account.
+	The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.
 
 📍 Host name <br>
  
- 	It includes both the computer’s <B>host</B> name and domain name.
+ 	It includes both the computer’s host name and domain name.
 
