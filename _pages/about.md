@@ -12,10 +12,10 @@ image: assets/images/about/author.jpg
 
 <i> What is the thing can play the cartoon and movie? </i> 
 
-<i> And what's name for the mouse-like pebble can make "click" sounds?</i>
+<i> And what's name for the mouse-like pebble can make "click" sounds?</i><br>
 
-<font size = "4"> This is <B>Pictionary</B> project. Let us tell you what are the those things!</font> 
+<font size = "4"> This is <B>Pictionary</B> project. Let us tell you what are the those things!</font> <br>
 
-<font size = "4"> We aim to explain the object from <B>linguistics perspective</B>.</font> 
+<font size = "4"> We aim to explain the object from <B>linguistics perspective</B>.</font> <br>
  
-<font size = "4"> btw 🥳 This is <B>Group 5</B> from 2023 spring CityU Computational Lexicography course. </font> 
+<font size = "4"> btw 🥳 This is <B>Group 5</B> from 2023 spring CityU Computational Lexicography course. </font> <br>
