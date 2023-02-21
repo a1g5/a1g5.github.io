@@ -8,7 +8,7 @@ image:  /assets/images/blog/post-1.jpg
 
 👈 <font size="5"> <B> What's name of this big screen? </B></font> <br>
 
-<font size="5"> <i> <B> Display  </B> </i> </font>
+<font size="5"> <i> <B> Display  </B> </i> </font> <br>
 
 <B>Definition: </B> <br> The Regulation originally required protection of employees who have to use computer display screen for a period of one hour a day.
 
