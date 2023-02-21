@@ -5,13 +5,13 @@ image:  /assets/images/blog/post-2.jpg
 ---
 <i><B>Host</B></i>
 
-**🇬🇧 <B>/həʊst/</B>**  
+🇬🇧 <B>/həʊst/</B>
 <audio controls="controls">
   <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
-**🇺🇸 <B>/hoʊst/</B>**
+🇺🇸 <B>/hoʊst/</B>
 <audio controls="controls">
   <source src="/assets/audio/host-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />

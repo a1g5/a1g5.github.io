@@ -6,13 +6,13 @@ image:  /assets/images/blog/post-1.jpg
 ---
 <i><B>Display</B></i>
 
-**🇬🇧 <B>/dɪsˈpleɪ/</B>**  
+🇬🇧 <B>/dɪsˈpleɪ/</B>
 <audio controls="controls">
   <source src="/assets/audio/display-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
-**🇺🇸 <B>/dɪsˈpleɪ/</B>**
+🇺🇸 <B>/dɪsˈpleɪ/</B>
 <audio controls="controls">
   <source src="/assets/audio/display-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
