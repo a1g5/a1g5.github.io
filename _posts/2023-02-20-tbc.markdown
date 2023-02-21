@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  To be continued
-
 image:  /assets/images/blog/post-6.jpg
 ---
-
-<B>Digital Learning Classroom</B> section will constantly update! 
+We will update soon! 
 
 To be Continued! 
