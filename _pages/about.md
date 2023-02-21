@@ -14,8 +14,8 @@ image: assets/images/about/author.jpg
 
 <i> And what's name for the mouse-like pebble can make "click" sounds?</i><br>
 
-<font size = "4"> This is <B>Pictionary</B> project. Let us tell you what are the those things!</font> <br>
+**This is <B>Pictionary</B> project. Let us tell you what are the those things!**<br>
 
-<font size = "4"> We aim to explain the object from <B>linguistics perspective</B>.</font> <br>
+**We aim to explain the object from <B>linguistics perspective</B>.**<br>
  
-<font size = "4"> btw 🥳 This is <B>Group 5</B> from 2023 spring CityU Computational Lexicography course. </font> <br>
+btw 🥳 This is <B>Group 5</B> from 2023 spring CityU Computational Lexicography course.<br>
