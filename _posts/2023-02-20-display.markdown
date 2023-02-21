@@ -10,9 +10,6 @@ image:  /assets/images/blog/post-1.jpg
 
 <font size="5"> <i> <B> Display  </B> </i> </font> <br>
 
-<B>Definition: </B> <br> The Regulation originally required protection of employees who have to use computer display screen for a period of one hour a day.
-
-
 📢 <B>Pronunciation</B>
 
 🇬🇧  <B>/dɪsˈpleɪ/</B>  
@@ -22,6 +19,13 @@ image:  /assets/images/blog/post-1.jpg
 
 
 
+
 > How to use the word "display"?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+1⃣️ The Regulation originally required protection of employees who have to use computer <B>display</B> screen for a period of one hour a day. <br>
+
+2⃣️ Together with the optional high-resolution color <B>display</B> in the instrument cluster, the new dashboard with its elegant, grained surface and prominent decorative trim emphasizes the premium character of the interior. <br>
+
+3⃣️ We recommend setting the microphone volume in the LCD <B>display</B> to 7 out of 12.<br>
+
+4⃣️ As soon as the higher analog pressure drops below the lower analog pressure the digital <B>display</B> will switch to the new highest reading. <br>
