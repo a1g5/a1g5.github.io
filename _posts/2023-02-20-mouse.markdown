@@ -1,16 +1,77 @@
 ---
 layout: post
-title:  Mouse
-
+title:  What's name of this "pebble"？
 image:  /assets/images/blog/post-5.jpg
 ---
+***<B>Mouse</B>**
 
-**Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.**
+🇬🇧 <B>/maʊs/</B>
+<audio controls="controls">
+  <source src="/assets/audio/mouse-gb.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+🇺🇸 <B>/maʊs/</B>
+<audio controls="controls">
+  <source src="/assets/audio/mouse-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+> How to use the word <B>"mouse"</B>? Let's see some examples ~ 
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+**in our Digital Classroom**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+**<i> <B> Example Phrases</B></i>**
+
+click <B> mouse </B>
+
+move <B> mouse</B>
+
+<B> mouse </B> button
+
+**<i> <B> Example Sentences </B></i>**
+
+📍 To access this screen, right mouse click on the desired data file.<br>
+
+📍 You can browse your site and double-click the mouse where you want to modify can be modified. <br>
+
+📍 To read your records fully, just move your mouse over the date cell.<br>
+
+📍 Move the cursor to the desired position on the label and click on the mouse button.<br>
+
+
+**as a "Mickey""**
+
+**<i> <B> Example Phrases</B></i>**
+
+(1) ADJ. + mouse
+
+	mouse field , mouse laboratory
+
+(2) VERB + mouse
+	
+	catch mouse
+	
+(3) MOUSE + VERB  (describe the mouse's action)
+	
+	often used verb: squeak, run, scamper, gnaw
+		
+(3) MOUSE + VERB  (describe the mouse's action)
+
+	mouse droppings, mouse hole, mouse trap
+	
+(4) slang
+
+	as quiet as a mouse
+	
+**<i> <B> Example Sentences </B></i>**
+
+📍 This page provides integrated access to data on the genetics, genomics, and biology of the laboratory mouse.<br>
+
+📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?<br>
+
+📍 A black cat was sitting outside a mouse hole for a few days.<br>
+
+📍 A mouse has gnawed its way through the telephone wire.<br>
+
+📍 She crept upstairs, as quiet as a mouse.<br>
