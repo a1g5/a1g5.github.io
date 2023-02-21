@@ -18,7 +18,7 @@ image:  /assets/images/blog/post-1.jpg
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
-> How to use the word "display"? Let's see some examples ~ 
+> How to use the word <B>"display"</B>? Let's see some examples ~ 
 
 **<i> <B> Example Phrases </B></i>**
 
