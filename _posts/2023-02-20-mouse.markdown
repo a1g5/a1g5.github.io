@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👇 What's name of the pebble？
+title:  👇 What's the pebble？
 image:  /assets/images/blog/post-5.jpg
 ---
 **<B>Mouse</B>**

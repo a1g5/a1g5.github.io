@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👇 What's name of the "notebook" ?
+title:  👇 What's the "notebook" ?
 image:  /assets/images/blog/post-4.jpg
 
 ---
