@@ -19,16 +19,15 @@ image:  /assets/images/blog/post-2.jpg
 
 > How to use the word <B>"host"</B>? Let's see some examples ~ 
 
-**<i> <B> Example Sentences </B></i>**
+**<i> <B> Example Phrases</B></i>**
 
-computer <B>display</B>
+<B> host </B> computer
 
-high resolution <B>display</B>
+<B> host </B> machine
 
-liquid crystal <B>display</B>
+<B> host </B> name
 
-digital <B>display</B>
-
+web-<B>hosting</B>
 
 **<i> <B> Example Sentences </B></i>**
 
