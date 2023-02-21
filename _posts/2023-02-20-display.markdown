@@ -4,7 +4,6 @@ title:  👇 What's name of this screen?
 image:  /assets/images/blog/post-1.jpg
 
 ---
-**Display**
 
 📢 <B>Pronunciation</B>
 
@@ -15,10 +14,11 @@ image:  /assets/images/blog/post-1.jpg
 </audio>
 
 **🇺🇸 <B>/dɪsˈpleɪ/</B>**
-<br>
-<br>
-<br>
-<br>
+<audio controls="controls">
+  <source src="/assets/audio/display-us.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio>
+
 > How to use the word "display"? Let's see some examples ~ 
 
 **<i> <B> Example Sentences </B></i>**
