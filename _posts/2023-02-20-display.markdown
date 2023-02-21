@@ -7,11 +7,11 @@ image:  /assets/images/blog/post-1.jpg
 ---
 **Display**
 
-**📢 <B>Pronunciation</B>**
+📢 <B>Pronunciation</B>
 
-**🇬🇧  <B>/dɪsˈpleɪ/</B>**  
+**🇬🇧 <B>/dɪsˈpleɪ/</B>**  
 
-**🇺🇸  <B>/dɪsˈpleɪ/<B>**
+**🇺🇸 <B>/dɪsˈpleɪ/<B>**
 
 
 
