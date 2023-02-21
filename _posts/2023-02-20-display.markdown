@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👇 What's name of this big screen?
+title:  👇What's name of this big screen?
 image:  /assets/images/blog/post-1.jpg
 
 ---
@@ -11,10 +11,12 @@ image:  /assets/images/blog/post-1.jpg
 **🇬🇧 <B>/dɪsˈpleɪ/</B>**  
 
 **🇺🇸 <B>/dɪsˈpleɪ/</B>**
-
+<br>
+<br>
+<br>
+<br>
 > How to use the word "display"? Let's see some examples ~ 
 
-<br>
 **<i> <B> Example Sentences </B></i>**
 
 computer <B>display</B>
