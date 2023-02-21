@@ -3,7 +3,7 @@ layout: post
 title:  👇 What's name of this "pebble"？
 image:  /assets/images/blog/post-5.jpg
 ---
-***<B>Mouse</B>**
+**<B>Mouse</B>**
 
 🇬🇧 <B>/maʊs/</B>
 <audio controls="controls">

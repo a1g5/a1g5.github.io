@@ -4,7 +4,7 @@ title:  👇 What's name of this "notebook" ?
 image:  /assets/images/blog/post-4.jpg
 
 ---
-***<B>Laptop</B>**
+**<B>Laptop</B>**
 
 🇬🇧 <B>/ˈlæp.tɒp/</B>
 <audio controls="controls">
