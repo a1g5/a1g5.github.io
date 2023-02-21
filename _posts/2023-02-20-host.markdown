@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  👇 What's name for this big box?
+title:  👇 What's name for this box?
 image:  /assets/images/blog/post-2.jpg
 ---
-**Host**
+<i><B>Host</B></i>
 
 **🇬🇧 <B>/həʊst/</B>**  
 <audio controls="controls">
