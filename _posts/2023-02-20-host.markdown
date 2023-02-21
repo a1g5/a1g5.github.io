@@ -3,7 +3,7 @@ layout: post
 title:  👇 What's name for this box?
 image:  /assets/images/blog/post-2.jpg
 ---
-<i><B>Host</B></i>
+**<B>Host</B>**
 
 🇬🇧 <B>/həʊst/</B>
 <audio controls="controls">
