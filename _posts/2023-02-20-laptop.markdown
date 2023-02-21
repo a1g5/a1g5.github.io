@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  What's name of this "notebook" ?
+title:  👇 What's name of this "notebook" ?
 image:  /assets/images/blog/post-4.jpg
 
 ---
 ***<B>Laptop</B>**
 
-🇬🇧 <B>/ˈlæp.tɒp//</B>
+🇬🇧 <B>/ˈlæp.tɒp/</B>
 <audio controls="controls">
   <source src="/assets/audio/laptop-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
-🇺🇸 <B>ˈlæp.tɑp/</B>
+🇺🇸 <B>/ˈlæp.tɑp/</B>
 <audio controls="controls">
   <source src="/assets/audio/laptop-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
