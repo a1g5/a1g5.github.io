@@ -36,11 +36,11 @@ move <B> mouse</B>
 
 **Another Sense**
 <br>
-ADJ. + mouse
+**ADJ. + mouse**
 
-	mouse field , mouse laboratory 
+**e.g. mouse field , mouse laboratory** 
 	
-	📍 This page provides integrated access to data on the genetics, genomics, and biology of the laboratory mouse.
+**📍 This page provides integrated access to data on the genetics, genomics, and biology of the laboratory mouse.**
 
 <br>
 VERB + mouse
