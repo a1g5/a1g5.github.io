@@ -4,38 +4,41 @@ title:  👇 What's the "notebook" ?
 image:  /assets/images/blog/post-4.jpg
 
 ---
-**<B>Laptop</B>**
+**<B>[Laptop](https://dictionary.cambridge.org/dictionary/english/laptop)</B>**
 
-🇬🇧 <B>/ˈlæp.tɒp/</B>
-<audio controls="controls">
+
+<B>Mandarin</B> 手提电脑 [shǒu tí diàn nǎo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 手提電腦 [sau2 tai4 din6 nou5]
+<br>
+<br>
+🇬🇧 <B>/ˈlæp.tɒp/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>ˈlæp.tɑp/</B>
+<table><tr>
+<td><audio controls="controls">
   <source src="/assets/audio/laptop-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-
-🇺🇸 <B>/ˈlæp.tɑp/</B>
-<audio controls="controls">
+</audio></td>
+<td><audio controls="controls">
   <source src="/assets/audio/laptop-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
+</audio></td>
+</tr></table>
 
-> How to use the word <B>"laptop"</B>? Let's see some examples ~ 
+<br>
+> How to use the word <B>"host"</B>? Let's see some examples
 
-**<i> <B> Example Phrases</B></i>**
+<B>✌🏻 Example Sentences </B>
 
-<B> laptop </B> dock
+**📍 laptop dock**
 
-<B> laptop </B> batteries
+**&emsp;&emsp;There's another problem with the laptop dock.** <br>
 
-<B> laptop </B> shade
+**📍 laptop batteries**
 
-buy a <B>laptop</B>
+**&emsp;&emsp;Capacity and lifetime of laptop batteries have improved much in the last years.**<br>
 
-**<i> <B> Example Sentences </B></i>**
+**📍 laptop shade**
 
-📍 There's another problem with the laptop dock. <br>
+**&emsp;&emsp;To close the laptop shade, push the top blue tab to the bottom blue tab inside, ensuring that the logo is on the outside, then fold together.**<br>
 
-📍 Capacity and lifetime of laptop batteries have improved much in the last years.<br>
+**📍 buy a laptop**
 
-📍 To close the laptop shade, push the top blue tab to the bottom blue tab inside, ensuring that the logo is on the outside, then fold together.<br>
-
-📍 When buying a laptop for every bag discount 10%.<br>
+**&emsp;&emsp;When buying a laptop for every bag discount 10%.**<br>
