@@ -6,10 +6,10 @@ image:  /assets/images/blog/post-2.jpg
 **<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
 
 <br>
-<B>Mandarin</B> 主机 [zhǔ jī] &ensp;&ensp;&ensp; <B>Cantonese</B> 主機 [zyu2 gei1]
+<B>Mandarin</B> 主机 [zhǔ jī] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B>Cantonese</B> 主機 [zyu2 gei1]
 <br>
 
-🇬🇧 <B>/dɪsˈpleɪ/</B>  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
+🇬🇧 <B>/dɪsˈpleɪ/</B>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
@@ -21,23 +21,23 @@ image:  /assets/images/blog/post-2.jpg
 </audio></td>
 </tr></table>
 
+<br>
 > How to use the word <B>"host"</B>? Let's see some examples
-
 
 <B> ✌🏻 Example Sentences </B>
 
-**📍 Host computer** <br>
+**📍 Host computer** 
 
-**Do not use this feature if the host computer sends Line Feeds to the printer.**
+**Do not use this feature if the host computer sends Line Feeds to the printer.**<br>
 
-**📍 Host machine** <br>
+**📍 Host machine**
 
-*The local host machine can further communicate with host machines in other regions over the Internet or GPRS.**
+**The local host machine can further communicate with host machines in other regions over the Internet or GPRS.**<br>
 
-**📍 Web-hosting** <br>
+**📍 Web-hosting**
 
-**The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.**
+**The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.**<br>
 
-**📍 Host name** <br>
+**📍 Host name**
  
-**It includes both the computer’s host name and domain name.**
+**It includes both the computer’s host name and domain name.**<br>
