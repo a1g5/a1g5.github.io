@@ -38,7 +38,7 @@ image:  /assets/images/blog/post-5.jpg
 </head>
 <body>
     <img src="/assets/images/tree/mouse.png" alt="display morphology">
-    <img src="/assets/images/tree/mouses-s.png" alt="display morphology">
+    <img src="/assets/images/tree/mouse-s.png" alt="display morphology">
 </body>
 </html>
 
