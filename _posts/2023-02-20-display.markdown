@@ -22,16 +22,14 @@ image:  /assets/images/blog/post-1.jpg
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio></td>
 </tr></table>
-<br>
-<br>
 
 **Morphology Tree**
 
 <i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
 
 <table><tr>
-<td><image: /assets/images/tree/display.png border=0></td>
-<td><image: /assets/images/tree/display-s.png border=0></td>
+<td><img src="/assets/images/tree/display.png" border=0></td>
+<td><img src="/assets/images/tree/display-s.png" border=0></td>
 </tr></table>
 
 
