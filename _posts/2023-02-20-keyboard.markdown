@@ -4,39 +4,39 @@ title:  👇 What's name of the cubes?
 image:  /assets/images/blog/post-3.jpg
 
 ---
-**<B>Keyboard</B>**
+**<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
 
-🇬🇧 <B>/ˈkiː.bɔːd/</B>
-<audio controls="controls">
+<br>
+<B>Mandarin</B> 键盘 [jiàn pán] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鍵盤 [gin6 pun4]
+<br>
+🇬🇧 <B>/ˈkiː.bɔːd/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
+<table><tr>
+<td><audio controls="controls">
   <source src="/assets/audio/keyboard-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-
-🇺🇸 <B>/ˈki.bɔrd/</B>
-<audio controls="controls">
+</audio></td>
+<td><audio controls="controls">
   <source src="/assets/audio/keyboard-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
+</audio></td>
+</tr></table>
 
 > How to use the word <B>"keyboard"</B>? Let's see some examples ~ 
 
-**<i> <B> Example Phrases</B></i>**
+<B> Example Sentences </B>
 
-computer <B> keyboard </B> 
+**📍 computer keyboard**
 
-PC <B> keyboard </B> 
+**&emsp;&emsp; Some programs for preschoolers may be aimed at familiarizing the child with the computer keyboard, or at teaching musical concepts.** <br>
 
-typewriter <B> keyboard </B>
+**📍 PC-Keyboard**
 
-<B>keyboard</B> operator
+**&emsp;&emsp; They can be recalled by the PC-Keyboard connected to the interface box (see keyboard layout below).**<br>
 
-**<i> <B> Example Sentences </B></i>**
+**📍 typewriter keyboard**
 
-📍 Some programs for preschoolers may be aimed at familiarizing the child with the computer keyboard, or at teaching musical concepts. <br>
+**&emsp;&emsp; This combines a typewriter keyboard, a printer and a computer.**<br>
 
-📍 They can be recalled by the PC-Keyboard connected to the interface box (see keyboard layout below).<br>
+**📍 keyboard operator**
 
-📍 This combines a typewriter keyboard, a printer and a computer.<br>
-
-📍 Is Robert a keyboard operator, too?<br>
- 
+**&emsp;&emsp; Is Robert a keyboard operator, too?**<br>
