@@ -5,6 +5,8 @@ image:  /assets/images/blog/post-1.jpg
 
 ---
 **<B>Display</B>**
+显示器 [xiǎn shì qì]<br>
+顯示器 [hin2 si6 hei3]
 
 **🇬🇧 <B>/dɪsˈpleɪ/</B>**
 <audio controls="controls">
@@ -19,20 +21,15 @@ image:  /assets/images/blog/post-1.jpg
 </audio>
 
 <br>
-**显示器 [xiǎn shì qì]**
-
-**顯示器 [hin2 si6 hei3]**
-
-<br>
 > How to use the word <B>"display"</B>? Let's see some examples
 
-**<i> <B> Example Phrases </B></i>**
+<B> Example Phrases </B>
 
 **computer <B>display</B>; high resolution <B>display</B>; liquid crystal <B>display</B>; digital <B>display</B>**
 
 <br>
 
-**<i> <B> Example Sentences </B></i>**
+<B> Example Sentences </B>
 
 **📍 The Regulation originally required protection of employees who have to use computer <B>display</B> screen for a period of one hour a day.** <br>
 
