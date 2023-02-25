@@ -5,20 +5,19 @@ image:  /assets/images/blog/post-1.jpg
 
 ---
 **<B>[Display](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/display)</B>**
-<br>
-<B>Mandarin</B> 显示器 [xiǎn shì qì]
-<B>Cantonese</B> 顯示器 [hin2 si6 hei3]<br>
-🇬🇧 <B>/dɪsˈpleɪ/</B> 
-<audio controls="controls">
+
+<B>Mandarin</B> 显示器 [xiǎn shì qì] &ensp;&ensp;&ensp; <B>Cantonese</B> 顯示器 [hin2 si6 hei3]<br>
+🇬🇧 <B>/dɪsˈpleɪ/</B>  &ensp;&ensp;&ensp;&ensp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
+<table><tr>
+<td><<audio controls="controls">
   <source src="/assets/audio/display-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-🇺🇸 <B>/dɪsˈpleɪ/</B>
-<audio controls="controls">
+</audio>></td>
+<td><<audio controls="controls">
   <source src="/assets/audio/display-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-
+</audio>></td>
+</tr></table>
 
 <br>
 > How to use the word <B>"display"</B>? Let's see some examples
