@@ -43,9 +43,9 @@ image:  /assets/images/blog/post-5.jpg
 **<i>Another Sense</i>**
 <br>
 <table><tr>
-<td><img src="assets/images/team/mickey-1.png"></td>
-<td><img src="assets/images/team/mickey-2.png"></td>
-<td><img src="assets/images/team/mickey-3.png"></td>
+<td><image: assets/images/team/mickey-1.png></td>
+<td><image: assets/images/team/mickey-2.png></td>
+<td><image: assets/images/team/mickey-3.png></td>
 </tr></table>
 <br>
 **1. as an ADJ**
