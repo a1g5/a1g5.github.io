@@ -5,11 +5,11 @@ image:  /assets/images/blog/post-2.jpg
 ---
 **<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
 
-
+<br>
 <B>Mandarin</B> 主机 [zhǔ jī] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 主機 [zyu2 gei1]
 <br>
 <br>
-🇬🇧 <B>/həʊst/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
+🇬🇧 <B>/həʊst/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
@@ -21,6 +21,7 @@ image:  /assets/images/blog/post-2.jpg
 </audio></td>
 </tr></table>
 
+<br>
 <br>
 > How to use the word <B>"host"</B>? Let's see some examples
 

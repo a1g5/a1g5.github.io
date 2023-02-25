@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-1.jpg
 ---
 **<B>[Display](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/display)</B>**
 
-
+<br>
 <B>Mandarin</B> 显示器 [xiǎn shì qì] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 顯示器 [hin2 si6 hei3]
 <br>
 <br>
@@ -22,6 +22,7 @@ image:  /assets/images/blog/post-1.jpg
 </audio></td>
 </tr></table>
 
+<br>
 <br>
 > How to use the word <B>"display"</B>? Let's see some examples
 
