@@ -42,13 +42,10 @@ image:  /assets/images/blog/post-5.jpg
 
 **<i>Another Sense</i>**
 <br>
-
-<figure class="third">
-    <img src="https://www.pinterest.com/pin/3659243436725206/.jpg">
-    <img src="https://www.pinterest.com/pin/305752262212182400/">
-    <img src="https://www.pinterest.com/pin/910290143410631835/.jpg">
-</figure>
-
+<center class="half">
+<img src="https://www.pinterest.com/pin/3659243436725206.png" width=00/>
+<img src="https://www.pinterest.com/pin/910290143410631835.png" width=200/>
+</center>
 <br>
 **1. as an ADJ**
 
