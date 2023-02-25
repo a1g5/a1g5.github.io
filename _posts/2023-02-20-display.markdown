@@ -18,7 +18,12 @@ image:  /assets/images/blog/post-1.jpg
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
+<br>
+**显示器 [xiǎn shì qì]**
 
+**顯示器 [hin2 si6 hei3]**
+
+<br>
 > How to use the word <B>"display"</B>? Let's see some examples
 
 **<i> <B> Example Phrases </B></i>**
