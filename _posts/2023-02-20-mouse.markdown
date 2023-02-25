@@ -3,64 +3,69 @@ layout: post
 title:  👇 What's the pebble？
 image:  /assets/images/blog/post-5.jpg
 ---
-**<B>Mouse</B>**
+**<B>[Mouse](https://dictionary.cambridge.org/dictionary/english/mouse)</B>**
 
-🇬🇧 <B>/maʊs/</B>
-<audio controls="controls">
+
+<B>Mandarin</B> 鼠标 [shǔ biāo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鼠標 [[syu2 biu1]
+<br>
+<br>
+🇬🇧 <B>/maʊs/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/maʊs/</B>
+<table><tr>
+<td><audio controls="controls">
   <source src="/assets/audio/mouse-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-
-🇺🇸 <B>/maʊs/</B>
-<audio controls="controls">
+</audio></td>
+<td><audio controls="controls">
   <source src="/assets/audio/mouse-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
+</audio></td>
+</tr></table>
 <br>
-> How to use the word <B>"mouse"</B>? Let's see some examples ~ 
+<br>
+> How to use the word <B>"mouse"</B>? Let's see some examples
 
 **in our Digital Classroom**
 <br>
-click <B> mouse </B>
+**click <B> mouse </B>**
 
-📍 To access this screen, right mouse click on the desired data file.<br>
+**📍 To access this screen, right mouse click on the desired data file.**<br>
 
-move <B> mouse</B>
+**move <B> mouse</B>**
 
-📍 To read your records fully, just move your mouse over the date cell.<br>
+**📍 To read your records fully, just move your mouse over the date cell.**<br>
 
-<B> mouse </B> button
+**<B> mouse </B> button**
 
-📍 Move the cursor to the desired position on the label and click on the mouse button.<br><br>
+**📍 Move the cursor to the desired position on the label and click on the mouse button.**<br><br>
 
 
 **Another Sense**
 <br>
-**ADJ. + mouse**
+**1⃣️ as an ADJ**
 
-**e.g. mouse field , mouse laboratory** 
+e.g. mouse field , mouse laboratory
 	
-**📍 This page provides integrated access to data on the genetics, genomics, and biology of the laboratory mouse.**
+**📍 This page provides integrated access to data on the genetics, genomics, and biology mouse laboratory.**
 
 <br>
-VERB + mouse
+**2⃣️ VERB + mouse**
 	
-	catch mouse
+catch mouse
 	
-	📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?
-	
-<br>
-MOUSE + VERB  (describe the mouse's action)
-	
-	often used verb: squeak, run, scamper, gnaw 
-	
-	📍 A black cat was sitting outside a mouse hole for a few days.
-	
-	📍 A mouse has gnawed its way through the telephone wire.
+**📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?**
 	
 <br>
-slang
+**3⃣️ MOUSE + VERB  (describe the mouse's action)**
+	
+often used verb: squeak, run, scamper, gnaw 
+	
+**📍 A black cat was sitting outside a mouse hole for a few days.**
+	
+**📍 A mouse has gnawed its way through the telephone wire.**
+	
+<br>
+**4⃣️ slang**
 
-	as quiet as a mouse
+as quiet as a mouse
 	
-	📍 She crept upstairs, as quiet as a mouse.
+**📍 She crept upstairs, as quiet as a mouse.**
