@@ -4,7 +4,7 @@ title:  👇 What's name of this screen?
 image:  /assets/images/blog/post-1.jpg
 
 ---
-**<B>Display</B>**
+**<B>[Display](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/display)</B>**
 <br>
 <B>Mandarin</B> 显示器 [xiǎn shì qì] &nbsp;&nbsp; <B>Cantonese</B> 顯示器 [hin2 si6 hei3]
 
