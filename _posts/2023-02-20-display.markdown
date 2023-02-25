@@ -5,17 +5,12 @@ image:  /assets/images/blog/post-1.jpg
 
 ---
 **<B>Display</B>**
+<br>
+<B>Mandarin</B> 显示器 [xiǎn shì qì] &nbsp;&nbsp; <B>Cantonese</B> 顯示器 [hin2 si6 hei3]
 
-Mandarin: 显示器 [xiǎn shì qì] &nbsp;&nbsp; Cantonese: 顯示器 [hin2 si6 hei3]
-
-🇬🇧 <B>/dɪsˈpleɪ/</B>
+🇬🇧 <B>/dɪsˈpleɪ/</B> &nbsp;&nbsp;&nbsp;&nbsp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
 <audio controls="controls">
   <source src="/assets/audio/display-gb.mp3" type="audio/mpeg">
-<embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-
-🇺🇸 <B>/dɪsˈpleɪ/</B>
-<audio controls="controls">
   <source src="/assets/audio/display-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
