@@ -3,47 +3,41 @@ layout: post
 title:  👇 What's name for this box?
 image:  /assets/images/blog/post-2.jpg
 ---
-**<B>Host</B>**
+**<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
 
-🇬🇧 <B>/həʊst/</B>
-<audio controls="controls">
+<br>
+<B>Mandarin</B> 主机 [zhǔ jī] &ensp;&ensp;&ensp; <B>Cantonese</B> 主機 [zyu2 gei1]
+<br>
+
+🇬🇧 <B>/dɪsˈpleɪ/</B>  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
+<table><tr>
+<td><audio controls="controls">
   <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
-
-🇺🇸 <B>/hoʊst/</B>
-<audio controls="controls">
+</audio></td>
+<td><audio controls="controls">
   <source src="/assets/audio/host-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
-</audio>
+</audio></td>
+</tr></table>
 
-> How to use the word <B>"host"</B>? Let's see some examples ~ 
+> How to use the word <B>"host"</B>? Let's see some examples
 
-**<i> <B> Example Phrases</B></i>**
 
-<B> host </B> computer
+<B> ✌🏻 Example Sentences </B>
 
-<B> host </B> machine
+**📍 Host computer** <br>
 
-<B> host </B> name
+**Do not use this feature if the host computer sends Line Feeds to the printer.**
 
-web-<B>hosting</B>
+**📍 Host machine** <br>
 
-**<i> <B> Example Sentences </B></i>**
+*The local host machine can further communicate with host machines in other regions over the Internet or GPRS.**
 
-📍 Host computer <br>
+**📍 Web-hosting** <br>
 
-	Do not use this feature if the host computer sends Line Feeds to the printer.
+**The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.**
 
-📍 Host machine <br>
-
-	The local host machine can further communicate with host machines in other regions over the Internet or GPRS.
-
-📍 Web-hosting <br>
-
-	The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.
-
-📍 Host name <br>
+**📍 Host name** <br>
  
- 	It includes both the computer’s host name and domain name.
-
+**It includes both the computer’s host name and domain name.**
