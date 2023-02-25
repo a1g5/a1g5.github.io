@@ -39,7 +39,7 @@ image:  /assets/images/blog/post-5.jpg
 **📍 Move the cursor to the desired position on the label and click on the mouse button.**<br><br>
 
 
-**Another Sense**
+**<i>Another Sense</i>**
 <br>
 <table><tr>
 <td><img src="assets/images/team/mickey-1.png"></td>
