@@ -5,6 +5,7 @@ image:  /assets/images/blog/post-4.jpg
 
 ---
 **<B>[Laptop](https://dictionary.cambridge.org/dictionary/english/laptop)</B>**
+
 <br>
 <br>
 <B>Mandarin</B> 手提电脑 [shǒu tí diàn nǎo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 手提電腦 [sau2 tai4 din6 nou5]
