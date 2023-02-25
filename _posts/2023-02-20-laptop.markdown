@@ -5,12 +5,12 @@ image:  /assets/images/blog/post-4.jpg
 
 ---
 **<B>[Laptop](https://dictionary.cambridge.org/dictionary/english/laptop)</B>**
-
-
+<br>
+<br>
 <B>Mandarin</B> 手提电脑 [shǒu tí diàn nǎo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 手提電腦 [sau2 tai4 din6 nou5]
 <br>
 <br>
-🇬🇧 <B>/ˈlæp.tɒp/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>ˈlæp.tɑp/</B>
+🇬🇧 <B>/ˈlæp.tɒp/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/ˈlæp.tɑp/</B>
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/laptop-gb.mp3" type="audio/mpeg">
@@ -21,7 +21,7 @@ image:  /assets/images/blog/post-4.jpg
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio></td>
 </tr></table>
-
+<br>
 <br>
 > How to use the word <B>"host"</B>? Let's see some examples
 

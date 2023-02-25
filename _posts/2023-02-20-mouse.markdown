@@ -4,8 +4,8 @@ title:  👇 What's the pebble？
 image:  /assets/images/blog/post-5.jpg
 ---
 **<B>[Mouse](https://dictionary.cambridge.org/dictionary/english/mouse)</B>**
-
-
+<br>
+<br>
 <B>Mandarin</B> 鼠标 [shǔ biāo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鼠標 [[syu2 biu1]
 <br>
 <br>
@@ -24,7 +24,7 @@ image:  /assets/images/blog/post-5.jpg
 <br>
 > How to use the word <B>"mouse"</B>? Let's see some examples
 
-**in our Digital Classroom**
+**<i>In our Digital Classroom</i>**
 <br>
 **click <B> mouse </B>**
 
@@ -41,31 +41,31 @@ image:  /assets/images/blog/post-5.jpg
 
 **Another Sense**
 <br>
-**1⃣️ as an ADJ**
+**1. as an ADJ**
 
-e.g. mouse field , mouse laboratory
+**e.g. mouse field , mouse laboratory**
 	
 **📍 This page provides integrated access to data on the genetics, genomics, and biology mouse laboratory.**
 
 <br>
-**2⃣️ VERB + mouse**
+**2. VERB + mouse**
 	
-catch mouse
+**catch mouse**
 	
 **📍 Maybe some would criticize the way Kadokawa is doing it but, as long as it can catch mouse, why not?**
 	
 <br>
-**3⃣️ MOUSE + VERB  (describe the mouse's action)**
+**3. MOUSE + VERB  (describe the mouse's action)**
 	
-often used verb: squeak, run, scamper, gnaw 
+**often used verb: squeak, run, scamper, gnaw**
 	
 **📍 A black cat was sitting outside a mouse hole for a few days.**
 	
 **📍 A mouse has gnawed its way through the telephone wire.**
 	
 <br>
-**4⃣️ slang**
+**4. slang**
 
-as quiet as a mouse
+**as quiet as a mouse**
 	
 **📍 She crept upstairs, as quiet as a mouse.**
