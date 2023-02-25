@@ -8,7 +8,7 @@ image:  /assets/images/blog/post-2.jpg
 <br>
 <B>Mandarin</B> 主机 [zhǔ jī] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 主機 [zyu2 gei1]
 <br>
-**🇬🇧 <B>/dɪsˈpleɪ/</B>**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **🇺🇸 <B>/dɪsˈpleɪ/</B>**
+**🇬🇧 <B>/həʊst/</B>**  &emsp;&emsp;&emsp;&emsp;&emsp;  **🇺🇸 <B>/hoʊst/</B>**
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
