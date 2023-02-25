@@ -54,23 +54,23 @@ team:
 
   - title: "Lu CHEN"
     image: "assets/images/team/member-2.png"
-    designation: "IPA Searching"
+    designation: "IPA Searching<br>lchen422-c@my.cityu.edu.hk"
 
   - title: "Yanjun LAI"
     image: "assets/images/team/member-7.png"
-    designation: "Example Collection "
+    designation: "Example Collection<br>yjlai4-c@my.cityu.edu.hk "
     
   - title: "Yinrong YAN"
     image: "assets/images/team/member-4.png"
-    designation: "Lexical Collection"
+    designation: "Lexical Collection<br>yryan2-c@my.cityu.edu.hk"
     
   - title: "Huiyi ZHENG"
     image: "assets/images/team/member-5.png"
-    designation: "Morphology Tree"
+    designation: "Morphology Tree<br>huiyzheng2-c@my.cityu.edu.hk"
     
   - title: "Minglin LI"
     image: "assets/images/team/member-6.png"
-    designation: "Photo"
+    designation: "Photo<br>minglinli3-c@my.cityu.edu.hk"
 
 #-------------------------------
 # Contact Section
