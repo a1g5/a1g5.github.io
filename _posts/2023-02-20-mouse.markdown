@@ -25,7 +25,7 @@ image:  /assets/images/blog/post-5.jpg
 <br>
 > How to use the word <B>"mouse"</B>? Let's see some examples
 
-**<i>In our Digital Classroom</i>**
+**<i>In our Digital Classroom</i> 🖱️**
 <br>
 **click <B> mouse </B>**
 
@@ -40,12 +40,8 @@ image:  /assets/images/blog/post-5.jpg
 **📍 Move the cursor to the desired position on the label and click on the mouse button.**<br><br>
 
 
-**<i>Another Sense</i>**
-<br>
-<center class="half">
-<img src="https://pin.it/6IodBtV.png" width=00/>
-<img src="https://pin.it/3oatMab.png" width=200/>
-</center>
+**<i>Another Sense</i> 🐭**
+
 <br>
 **1. as an ADJ**
 
