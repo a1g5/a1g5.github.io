@@ -9,7 +9,8 @@ image:  /assets/images/blog/post-3.jpg
 <br>
 <B>Mandarin</B> 键盘 [jiàn pán] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鍵盤 [gin6 pun4]
 <br>
-🇬🇧 <B>/ˈkiː.bɔːd/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
+<br>
+🇬🇧 <B>/ˈkiː.bɔːd/</B>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  🇺🇸 <B>/hoʊst/</B>
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/keyboard-gb.mp3" type="audio/mpeg">
