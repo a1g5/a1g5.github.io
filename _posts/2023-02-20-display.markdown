@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-1.jpg
 ---
 **<B>Display</B>**
 
-显示器 [xiǎn shì qì] &nbsp;&nbsp; 顯示器 [hin2 si6 hei3]
+Mandarin: 显示器 [xiǎn shì qì] &nbsp;&nbsp; Cantonese: 顯示器 [hin2 si6 hei3]
 
 🇬🇧 <B>/dɪsˈpleɪ/</B>
 <audio controls="controls">
