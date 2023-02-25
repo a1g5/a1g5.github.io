@@ -6,10 +6,10 @@ image:  /assets/images/blog/post-2.jpg
 **<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
 
 <br>
-<B>Mandarin</B> 主机 [zhǔ jī] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B>Cantonese</B> 主機 [zyu2 gei1]
+**<B>Mandarin</B> 主机 [zhǔ jī]** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **<B>Cantonese</B> 主機 [zyu2 gei1]**
 <br>
 
-🇬🇧 <B>/dɪsˈpleɪ/</B>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🇺🇸 <B>/dɪsˈpleɪ/</B>
+**🇬🇧 <B>/dɪsˈpleɪ/</B>**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **🇺🇸 <B>/dɪsˈpleɪ/</B>**
 <table><tr>
 <td><audio controls="controls">
   <source src="/assets/audio/host-gb.mp3" type="audio/mpeg">
@@ -28,16 +28,16 @@ image:  /assets/images/blog/post-2.jpg
 
 **📍 Host computer** 
 
-**Do not use this feature if the host computer sends Line Feeds to the printer.**<br>
+**&emsp;&emsp Do not use this feature if the host computer sends Line Feeds to the printer.**<br>
 
 **📍 Host machine**
 
-**The local host machine can further communicate with host machines in other regions over the Internet or GPRS.**<br>
+**&emsp;&emsp; The local host machine can further communicate with host machines in other regions over the Internet or GPRS.**<br>
 
 **📍 Web-hosting**
 
-**The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.**<br>
+**&emsp;&emsp; The Cpanel interface is a client side interface, which allows your customers to easily control a web-hosting account.**<br>
 
 **📍 Host name**
  
-**It includes both the computer’s host name and domain name.**<br>
+**&emsp;&emsp; It includes both the computer’s host name and domain name.**<br>
