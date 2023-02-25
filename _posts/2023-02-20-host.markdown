@@ -5,7 +5,7 @@ image:  /assets/images/blog/post-2.jpg
 ---
 **<B>[Host](https://dictionary.cambridge.org/dictionary/english/host-computer?q=computer+host)</B>**
 
-<br>
+
 <B>Mandarin</B> 主机 [zhǔ jī] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 主機 [zyu2 gei1]
 <br>
 <br>
