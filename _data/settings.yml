@@ -50,7 +50,7 @@ blurb-btn-name: know more
 team:
   - title: "Zhengwu MA"
     image: "assets/images/team/member-1.png"
-    designation: "Web Designing"
+    designation: "Web Designing<br>zhengwuma2-c@my.cityu.edu.hk"
 
   - title: "Lu CHEN"
     image: "assets/images/team/member-2.png"
