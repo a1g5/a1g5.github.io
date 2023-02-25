@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-3.jpg
 ---
 **<B>[Keyboard](https://dictionary.cambridge.org/dictionary/english/keyboard)</B>**
 
-<br>
+click here 👆 to show more
 <br>
 <B>Mandarin</B> 键盘 [jiàn pán] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鍵盤 [gin6 pun4]
 <br>
@@ -22,9 +22,22 @@ image:  /assets/images/blog/post-3.jpg
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio></td>
 </tr></table>
+<br>
+<br>
+**Morphology Tree**
 
-<br>
-<br>
+<i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <img src="/assets/images/tree/keyboard.png" alt="display morphology">
+    <img src="/assets/images/tree/keyboards-s.png" alt="display morphology">
+</body>
+</html>
+
 > How to use the word <B>"keyboard"</B>? Let's see some examples
 
 <B>✌🏻 Example Sentences </B>

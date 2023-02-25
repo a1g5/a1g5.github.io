@@ -33,7 +33,7 @@ image:  /assets/images/blog/post-1.jpg
 </head>
 <body>
     <img src="/assets/images/tree/diaplay.png" alt="display morphology">
-    <img src="/assets/images/tree/diaplay-s.png" alt="display morphology">
+    <img src="/assets/images/tree/diaplay-s.png" alt="displays morphology">
 </body>
 </html>
 

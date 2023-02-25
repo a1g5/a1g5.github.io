@@ -5,7 +5,7 @@ image:  /assets/images/blog/post-5.jpg
 ---
 **<B>[Mouse](https://dictionary.cambridge.org/dictionary/english/mouse)</B>**
 
-<br>
+click here 👆 to show more
 <br>
 <B>Mandarin</B> 鼠标 [shǔ biāo] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鼠標 [[syu2 biu1]
 <br>
@@ -37,8 +37,8 @@ image:  /assets/images/blog/post-5.jpg
     <meta charset="UTF-8">
 </head>
 <body>
-    <img src="/assets/images/tree/mouse.png" alt="display morphology">
-    <img src="/assets/images/tree/mouse-s.png" alt="display morphology">
+    <img src="/assets/images/tree/mouse.png" alt="mouse morphology">
+    <img src="/assets/images/tree/mouse-s.png" alt="mouses morphology">
 </body>
 </html>
 
@@ -64,8 +64,8 @@ image:  /assets/images/blog/post-5.jpg
     <meta charset="UTF-8">
 </head>
 <body>
-    <img src="/assets/images/tree/mouse.png" alt="display morphology">
-    <img src="/assets/images/tree/mice.png" alt="display morphology">
+    <img src="/assets/images/tree/mouse.png" alt="mouse morphology">
+    <img src="/assets/images/tree/mice.png" alt="mice morphology">
 </body>
 </html>
 <br>
