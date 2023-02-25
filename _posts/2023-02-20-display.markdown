@@ -27,13 +27,13 @@ image:  /assets/images/blog/post-1.jpg
 
 <i>[What is the morphological tree? (click here!)](https://all-about-linguistics.group.shef.ac.uk/branches-of-linguistics/morphology/how-is-morphology-studied/)</i>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
 </head>
 <body>
     <img src="/assets/images/tree/diaplay.png" alt="display morphology">
+    <img src="/assets/images/tree/diaplay-s.png" alt="display morphology">
 </body>
 </html>
 
