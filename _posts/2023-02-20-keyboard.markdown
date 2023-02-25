@@ -8,6 +8,7 @@ image:  /assets/images/blog/post-3.jpg
 
 click here 👆 to show more
 <br>
+<br>
 <B>Mandarin</B> 键盘 [jiàn pán] &emsp;&emsp;&emsp;&emsp; <B>Cantonese</B> 鍵盤 [gin6 pun4]
 <br>
 <br>
@@ -33,8 +34,8 @@ click here 👆 to show more
     <meta charset="UTF-8">
 </head>
 <body>
-    <img src="/assets/images/tree/keyboard.png" alt="display morphology">
-    <img src="/assets/images/tree/keyboards-s.png" alt="display morphology">
+    <img src="/assets/images/tree/keyboard.png" alt="keyboard morphology">
+    <img src="/assets/images/tree/keyboards-s.png" alt="keyboards morphology">
 </body>
 </html>
 
