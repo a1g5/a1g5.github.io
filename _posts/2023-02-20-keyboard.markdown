@@ -35,7 +35,7 @@ click here 👆 to show more
 </head>
 <body>
     <img src="/assets/images/tree/keyboard.png" alt="keyboard morphology">
-    <img src="/assets/images/tree/keyboards-s.png" alt="keyboards morphology">
+    <img src="/assets/images/tree/keyboard-s.png" alt="keyboards morphology">
 </body>
 </html>
 

@@ -35,7 +35,7 @@ click here 👆 to show more
 </head>
 <body>
     <img src="/assets/images/tree/laptop.png" alt="laptop morphology">
-    <img src="/assets/images/tree/laptops-s.png" alt="laptops morphology">
+    <img src="/assets/images/tree/laptop-s.png" alt="laptops morphology">
 </body>
 </html>
 
