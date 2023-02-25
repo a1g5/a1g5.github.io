@@ -6,35 +6,31 @@ image:  /assets/images/blog/post-1.jpg
 ---
 **<B>Display</B>**
 
-🇬🇧 <B>/dɪsˈpleɪ/</B>
+**🇬🇧 <B>/dɪsˈpleɪ/</B>**
 <audio controls="controls">
   <source src="/assets/audio/display-gb.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
-🇺🇸 <B>/dɪsˈpleɪ/</B>
+**🇺🇸 <B>/dɪsˈpleɪ/</B>**
 <audio controls="controls">
   <source src="/assets/audio/display-us.mp3" type="audio/mpeg">
 <embed height="100" width="100" src="/i/song.mp3" />
 </audio>
 
-> How to use the word <B>"display"</B>? Let's see some examples ~ 
+
+> How to use the word <B>"display"</B>? Let's see some examples
 
 **<i> <B> Example Phrases </B></i>**
 
-computer <B>display</B>
+**computer <B>display</B>; high resolution <B>display</B>; liquid crystal <B>display</B>; digital <B>display</B>**
 
-high resolution <B>display</B>
-
-liquid crystal <B>display</B>
-
-digital <B>display</B>
-
+<br>
 
 **<i> <B> Example Sentences </B></i>**
 
-📍 The Regulation originally required protection of employees who have to use computer <B>display</B> screen for a period of one hour a day. <br>
+**📍 The Regulation originally required protection of employees who have to use computer <B>display</B> screen for a period of one hour a day.** <br>
 
-📍 We recommend setting the microphone volume in the LCD <B>display</B> to 7 out of 12.<br>
+**📍 We recommend setting the microphone volume in the LCD <B>display</B> to 7 out of 12.**<br>
 
-📍 As soon as the higher analog pressure drops below the lower analog pressure the digital <B>display</B> will switch to the new highest reading. <br>
+**📍 As soon as the higher analog pressure drops below the lower analog pressure the digital <B>display</B> will switch to the new highest reading.** <br>
