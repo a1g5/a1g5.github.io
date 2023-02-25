@@ -26,7 +26,7 @@ image:  /assets/images/blog/post-2.jpg
 
 **📍 Host computer** 
 
-**&emsp;&emsp Do not use this feature if the host computer sends Line Feeds to the printer.**<br>
+**&emsp;&emsp; Do not use this feature if the host computer sends Line Feeds to the printer.**<br>
 
 **📍 Host machine**
 
