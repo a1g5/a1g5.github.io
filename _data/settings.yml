@@ -1,5 +1,4 @@
 ---
-#-------------------------------
 # General Site Settings
 
 title: 🤓 Pictionary
@@ -18,11 +17,6 @@ menu:
 #-------------------------------
 # Google Analytics Section
 
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
 google-analytics: # UA-XXXXXX-X
 
 #-------------------------------
@@ -37,7 +31,6 @@ hero:
   hero-title: Hi there! <br>Welcome to the<br><br> <i>Digital Learning Classroom!</i> 
 
 #-------------------------------
-# About (Section and Page)
 
 # About Section
 blurb: We learn everything from the tangible world, including language. Pictionary is the primary school students domain dictionary project to collect the real objects around our world. This work is developed by the 2023 spring LT5457 Compuational Lexicography Group 5.<br><br>Check our group information in " About "! <br>Quick Start via " Pictionary "!
